@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeatherForecastWindow/1.0.0": {
+        "dependencies": {
+          "PrecipitationSensor": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecastWindow.dll": {}
+        }
+      },
+      "PrecipitationSensor/1.0.0": {
+        "runtime": {
+          "PrecipitationSensor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecastWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrecipitationSensor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

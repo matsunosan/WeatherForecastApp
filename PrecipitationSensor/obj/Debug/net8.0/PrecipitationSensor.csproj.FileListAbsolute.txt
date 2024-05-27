@@ -1,0 +1,11 @@
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\bin\Debug\net8.0\PrecipitationSensor.deps.json
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\bin\Debug\net8.0\PrecipitationSensor.dll
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\bin\Debug\net8.0\PrecipitationSensor.pdb
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\PrecipitationSensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\PrecipitationSensor.AssemblyInfoInputs.cache
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\PrecipitationSensor.AssemblyInfo.cs
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\PrecipitationSensor.csproj.CoreCompileInputs.cache
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\PrecipitationSensor.dll
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\refint\PrecipitationSensor.dll
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\PrecipitationSensor.pdb
+C:\Users\glory hole\Documents\WeatherForecastApp\PrecipitationSensor\obj\Debug\net8.0\ref\PrecipitationSensor.dll
